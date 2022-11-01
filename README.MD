@@ -24,6 +24,10 @@ Well, hello there!
 <img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html&logoColor=white" />
 <img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%2343853D.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+<img align="left" alt="typereact" src="https://img.shields.io/badge/typereact%20-%2343853D.svg?&style=for-the-badge&logo=react&logoColor=white" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2343853D.svg?&style=for-the-badge&logo=react&logoColor=white" />
+<img align="left" alt="node.js" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/typescript%20-%2343853D.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br>
 <br>
