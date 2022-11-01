@@ -16,7 +16,7 @@ Well, hello there!
 [<img align="left" alt="github" src="https://img.shields.io/badge/GITHUB-purple.svg?&style=for-the-badge&logo=GITHUB&logoColor=black" target="blank"/>](https://github.com/moonriselan/) 
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-green.svg?&style=for-the-badge&logo=Instagram&logoColor=black" target="blank"/>](https://instagram.com/moonriselan/) 
 [<img align="left" alt="Codepen.io" src="https://img.shields.io/badge/Codepen.io-yellow.svg?&style=for-the-badge&logo=Codepen.io&logoColor=black" target="blank"/>](https://codepen.io/moonriselan) 
-<br>
+
 <br>
 
 ## Learning:
