@@ -2,13 +2,14 @@ Well, hello there!
 
 🍄I'm an aspiring front-end developer with a science background and a love for bugs not only in code.🪲
 
-🍄I'm learning now CSS, HTML, SASS and other technologies to make coding a little bit brighter. 
+🍄I'm learning now CSS, HTML, SASS, JavaScript and other technologies to make coding a little bit brighter. 
 
 🍄In love with Pure CSS Animation.
 
 
 🍄 Based in Krakow, PL. 
 <br>
+# Windows-&-Mac-buddy. 
 
 ## Social media:
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/>](https://pl.linkedin.com/in/patrycja-goch-a873701a9) 
