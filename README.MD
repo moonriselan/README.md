@@ -17,7 +17,6 @@ Well, hello there!
 [<img align="left" alt="Codepen.io" src="https://img.shields.io/badge/Codepen.io-yellow.svg?&style=for-the-badge&logo=Codepen.io&logoColor=black" target="blank"/>](https://codepen.io/moonriselan) 
 
 <br>
-<br>
 ## Learning:
 <img align="left" alt="css" src="https://img.shields.io/badge/css%20-%2343853D.svg?&style=for-the-badge&logo=css&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html&logoColor=white" />
