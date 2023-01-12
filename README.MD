@@ -25,14 +25,14 @@
 [<img align="left" alt="github" src="https://img.shields.io/badge/GITHUB-purple.svg?&style=for-the-badge&logo=GITHUB&logoColor=black" target="blank"/>](https://github.com/moonriselan/) 
 [<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-green.svg?&style=for-the-badge&logo=Instagram&logoColor=black" target="blank"/>](https://instagram.com/moonriselan/) 
 [<img align="left" alt="Codepen.io" src="https://img.shields.io/badge/Codepen.io-yellow.svg?&style=for-the-badge&logo=Codepen.io&logoColor=black" target="blank"/>](https://codepen.io/moonriselan) 
-[<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-%230077B5.svg?&style=for-the-badge&logo=codewars&logoColor=white" target="blank"/>](https://www.codewars.com/users/moonriselan) 
+[<img align="left" alt="Codewars" src="https://img.shields.io/badge/Codewars-red.svg?&style=for-the-badge&logo=codewars&logoColor=white" target="blank"/>](https://www.codewars.com/users/moonriselan) 
 
 <br>
 
 ## Learning:
-<img align="left" alt="css" src="https://img.shields.io/badge/css%20-%2343853D.svg?&style=for-the-badge&logo=css&logoColor=white" />
-<img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html&logoColor=white" />
-<img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%2343853D.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+<img align="left" alt="css" src="https://img.shields.io/badge/css%20-%2343853D.svg?&style=for-the-badge&logo=css&logoColor=red" />
+<img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html&logoColor=red" />
+<img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%2343853D.svg?&style=for-the-badge&logo=sass&logoColor=red" />
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=red" />
 
 <br>
