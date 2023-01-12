@@ -32,8 +32,8 @@
 ## Learning:
 <img align="left" alt="css" src="https://img.shields.io/badge/css%20-%2343853D.svg?&style=for-the-badge&logo=css&logoColor=red" />
 <img align="left" alt="html" src="https://img.shields.io/badge/html%20-%2343853D.svg?&style=for-the-badge&logo=html&logoColor=red" />
-<img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%2343853D.svg?&style=for-the-badge&logo=sass&logoColor=red" />
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=red" />
+<img align="left" alt="sass" src="https://img.shields.io/badge/sass%20-%2343853D.svg?&style=for-the-badge&logo=sass&logoColor=pink" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%2343853D.svg?&style=for-the-badge&logo=javascript&logoColor=yellow" />
 
 <br>
 
