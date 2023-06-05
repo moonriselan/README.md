@@ -6,8 +6,6 @@
 
 ### Well, hello there!
 
-<img width="20%" align="right" alt="silviacodes" src="https://www.kamelia.pl/wp-content/uploads/2022/05/WiP.gif"/>
-
 
 🍄I'm Pattie, an aspiring front-end developer with a science background and a love for bugs not only in code.🪲
 
