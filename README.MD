@@ -7,7 +7,7 @@
 ### Well, hello there!
 
 
-🍄I'm Pattie, an aspiring front-end developer with a science background and a love for bugs not only in code.🪲
+🍄I'm Pattie, an aspiring User Interface/User Experience/front-end developer with a science background and a love for bugs not only in code.🪲
 
 🍄I'm learning now CSS, HTML, SASS, JavaScript and other technologies to make coding a little bit brighter. 
 
